@@ -1,3 +1,5 @@
 *
 !public/
+!documents/
+!documentzips/
 !.gitignore
